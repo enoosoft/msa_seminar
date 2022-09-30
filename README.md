@@ -12,3 +12,5 @@ API 중심의 레거시 및 클라우드 네이티브 전환
 - MSA를 통한 Application Modernization
   - LG CNS MSA 김현숙 팀장
   - <img width="760" alt="스크린샷 2022-09-30 오전 11 16 48" src="https://user-images.githubusercontent.com/68217334/193175874-58b6ff22-e232-41ef-a926-0ef8c8ea4ea9.png">
+  - 각 업무단의 본연의 서비스에 집중된 데이터와 서비스를 식별, 구현한다.
+  - 서비스와 데이터가 분리돼 있으므로 API-FIrst (동기보다는 비동기)방식으로 설계한다.
